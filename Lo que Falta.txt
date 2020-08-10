@@ -1,0 +1,7 @@
+Arreglar la tabla de registro de actividades
+Eliminar el trigger que graba en la tabla de registro de actividades (esta en productos)
+Acomodar el apartado de registro de actividades
+Hacer el apartado de estadisticas
+Hacer el apartado de Modificación de contenido del index.php
+Poner apartado de certificación de pagos
+Acomodar la responsividad de la pagina
