@@ -3,6 +3,8 @@
 AlCampo is an eCommerce project that has increased little by little. This project has the common options of an ecommerce such as searching for products, creating your cart and making payments (hypothetical).<br>
 On the other hand, it has an administrator section in which orders, products, users and customers are controlled.
 
+This project is not responsive
+
 ## Languages & Frameworks
 
 <strong>PHP v5.2</strong><br>
